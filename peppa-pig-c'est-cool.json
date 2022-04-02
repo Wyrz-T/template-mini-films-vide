@@ -1,0 +1,339 @@
+{
+    "Search":[
+       {
+          "Title":"TChoupi et ses amis - 1, 2, 3 soleil!",
+          "Year":"2010",
+          "imdbID":"tt3402144",
+          "Type":"movie",
+          "Poster":"N/A"
+       },
+       {
+          "Title":"TChoupi et ses amis - La balade en forêt",
+          "Year":"2010",
+          "imdbID":"tt3402146",
+          "Type":"movie",
+          "Poster":"N/A"
+       },
+       {
+          "Title":"TChoupi et ses amis - La super classe",
+          "Year":"2010",
+          "imdbID":"tt3402148",
+          "Type":"movie",
+          "Poster":"N/A"
+       },
+       {
+          "Title":"TChoupi et ses amis - Le cache-cache géant",
+          "Year":"2010",
+          "imdbID":"tt3402152",
+          "Type":"movie",
+          "Poster":"N/A"
+       },
+       {
+          "Title":"TChoupi et ses amis - Le plus beau sapin de Noël",
+          "Year":"2010",
+          "imdbID":"tt3402156",
+          "Type":"movie",
+          "Poster":"N/A"
+       },
+           {
+              "Title":"Peppa Pig",
+              "Year":"2004–",
+              "imdbID":"tt0426769",
+              "Type":"series",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BNDUyODQ0NjAtYTZjMS00MzBjLWI1ZjYtMzBhYzgyYzdjMTE4XkEyXkFqcGdeQXVyMzU5OTE2NTI@._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: My First Cinema Experience",
+              "Year":"2017",
+              "imdbID":"tt6771444",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BM2I4OWI3MGUtZmUzMC00NjFhLWJlYTQtNjI1ZjFkOTc4Y2YwXkEyXkFqcGdeQXVyMDEzNzk1OQ@@._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: Festival of Fun",
+              "Year":"2019",
+              "imdbID":"tt10112466",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BYzQ0M2ZjODEtNzViNS00MGY0LTk2NDctNzViZDBjMmExMWFlXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: The Golden Boots",
+              "Year":"2015",
+              "imdbID":"tt4373888",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BMTA5NjA2OTA5NDFeQTJeQWpwZ15BbWU4MDEyNzU3Mjgx._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: Muddy Puddles and Other Stories",
+              "Year":"2012",
+              "imdbID":"tt2406728",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BMjEzNzU2ODM0Nl5BMl5BanBnXkFtZTgwNzc0NzA2MDE@._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: Flying a Kite and Other Stories",
+              "Year":"2012",
+              "imdbID":"tt2362978",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BNzg4Njg1NDgzOF5BMl5BanBnXkFtZTgwNjUzNzA2MDE@._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: Peppa's Christmas",
+              "Year":"2007",
+              "imdbID":"tt4055734",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BMTA3ODUwMTA1OTBeQTJeQWpwZ15BbWU4MDQ3MDM2MDgx._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig: My Birthday Party",
+              "Year":"2002",
+              "imdbID":"tt3607810",
+              "Type":"movie",
+              "Poster":"https://m.media-amazon.com/images/M/MV5BMTgzMTAwNDczMF5BMl5BanBnXkFtZTgwNzUzMzU0MTE@._V1_SX300.jpg"
+           },
+           {
+              "Title":"Peppa Pig New Shoes and Other Stories",
+              "Year":"2003",
+              "imdbID":"tt4055348",
+              "Type":"movie",
+              "Poster":"N/A"
+           },
+           {
+              "Title":"Peppa Pig: Vacanze Al Sole E Altre Storie",
+              "Year":"2014",
+              "imdbID":"tt6449464",
+              "Type":"movie",
+              "Poster":"N/A"
+           },
+        {
+           "Title":"The Amazing Spider-Man 2",
+           "Year":"2014",
+           "imdbID":"tt1872181",
+           "Type":"movie",
+           "Poster":"https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX300.jpg"
+        },
+        {
+           "Title":"Spider-Man: Far from Home",
+           "Year":"2019",
+           "imdbID":"tt6320628",
+           "Type":"movie",
+           "Poster":"https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg"
+        },
+        {
+           "Title":"Spider-Man: The Animated Series",
+           "Year":"1994–1998",
+           "imdbID":"tt0112175",
+           "Type":"series",
+           "Poster":"https://m.media-amazon.com/images/M/MV5BMmQ1NzBlYmItNmZkZi00OTZkLTg5YTEtNTI5YjczZjk3Yjc1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+        },
+        {
+        "Title":"Captain Marvel",
+        "Year":"2019",
+        "imdbID":"tt4154664",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel One-Shot: Agent Carter",
+        "Year":"2013",
+        "imdbID":"tt3067038",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZDIwZTM4M2QtMWFhYy00N2VmLWFlMjItMzI3NjBjYTc0OTMxXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel One-Shot: All Hail the King",
+        "Year":"2014",
+        "imdbID":"tt3438640",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZGFkMTZkMDQtNzM4Yy00YWEwLTkzOWEtZTMyNDRlNmJhYWJhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel One-Shot: Item 47",
+        "Year":"2012",
+        "imdbID":"tt2247732",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjNlMzAxNmQtOGEwZi00NTEyLWI0NWYtMTlhNmE2YTA3ZDVhXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer",
+        "Year":"2011",
+        "imdbID":"tt2011109",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYmVlYTg3N2QtMWM2OS00YWQyLWI2M2MtMDc0ZjBkZjk1MTY3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel One-Shot: The Consultant",
+        "Year":"2011",
+        "imdbID":"tt2011118",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNGE4YjU5MDAtYzYzMC00M2RlLTk0NDgtNDU1MjgyMGI0MjI3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel Studios: Legends",
+        "Year":"2021–",
+        "imdbID":"tt13650480",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMzdiNGVlZGYtMGY1Ni00OGU1LTlmYzEtZDBjYjk3OGM3YTNkXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Lego Marvel Super Heroes",
+        "Year":"2013",
+        "imdbID":"tt2620204",
+        "Type":"game",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTA5ODA2NTI2M15BMl5BanBnXkFtZTgwNTcxMzU1MDE@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Marvel Studios: Assembled",
+        "Year":"2021–",
+        "imdbID":"tt14094206",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNWMyNWYyMmYtZjNiZi00MzFmLTg2MjYtYWEzZWY1MzBhY2I2XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Lego Marvel Super Heroes: Maximum Overload",
+        "Year":"2013",
+        "imdbID":"tt3322904",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BZWUzMjMxNmItNDRjYi00NGQ0LTk1NTQtYWIwMzQwNGNlYWRiXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg"
+     },
+     
+    
+    {
+       "Title":"Ultimate Avengers: The Movie",
+       "Year":"2006",
+       "imdbID":"tt0491703",
+       "Type":"movie",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BMTYyMjk0NTMwMl5BMl5BanBnXkFtZTgwNzY0NjAwNzE@._V1_SX300.jpg"
+    },
+    {
+       "Title":"Ultimate Avengers II",
+       "Year":"2006",
+       "imdbID":"tt0803093",
+       "Type":"movie",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BZjI3MTI5ZTYtZmNmNy00OGZmLTlhNWMtNjZiYmYzNDhlOGRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+    },
+    {
+       "Title":"The Avengers",
+       "Year":"1961–1969",
+       "imdbID":"tt0054518",
+       "Type":"series",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BZWQwZTdjMDUtNTY1YS00MDI0LWFkNjYtZDA4MDdmZjdlMDRlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg"
+    },
+    {
+       "Title":"Avengers Assemble",
+       "Year":"2012–2019",
+       "imdbID":"tt2455546",
+       "Type":"series",
+       "Poster":"https://m.media-amazon.com/images/M/MV5BMTY0NTUyMDQwOV5BMl5BanBnXkFtZTgwNjAwMTA0MDE@._V1_SX300.jpg"
+    },
+    {
+        "Title":"Batman Begins",
+        "Year":"2005",
+        "imdbID":"tt0372784",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman v Superman: Dawn of Justice",
+        "Year":"2016",
+        "imdbID":"tt2975590",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman",
+        "Year":"1989",
+        "imdbID":"tt0096895",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTYwNjAyODIyMF5BMl5BanBnXkFtZTYwNDMwMDk2._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman Returns",
+        "Year":"1992",
+        "imdbID":"tt0103776",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOGZmYzVkMmItM2NiOS00MDI3LWI4ZWQtMTg0YWZkODRkMmViXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman Forever",
+        "Year":"1995",
+        "imdbID":"tt0112462",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNDdjYmFiYWEtYzBhZS00YTZkLWFlODgtY2I5MDE0NzZmMDljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman & Robin",
+        "Year":"1997",
+        "imdbID":"tt0118688",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMGQ5YTM1NmMtYmIxYy00N2VmLWJhZTYtN2EwYTY3MWFhOTczXkEyXkFqcGdeQXVyNTA2NTI0MTY@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Batman",
+        "Year":"2022",
+        "imdbID":"tt1877830",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMDdmMTBiNTYtMDIzNi00NGVlLWIzMDYtZTk3MTQ3NGQxZGEwXkEyXkFqcGdeQXVyMzMwOTU5MDk@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Lego Batman Movie",
+        "Year":"2016",
+        "imdbID":"tt4116284",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman: The Animated Series",
+        "Year":"1992–1995",
+        "imdbID":"tt0103359",
+        "Type":"series",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BOTM3MTRkZjQtYjBkMy00YWE1LTkxOTQtNDQyNGY0YjYzNzAzXkEyXkFqcGdeQXVyOTgwMzk1MTA@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Batman: Under the Red Hood",
+        "Year":"2010",
+        "imdbID":"tt1569923",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BNmY4ZDZjY2UtOWFiYy00MjhjLThmMjctOTQ2NjYxZGRjYmNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Real Steel",
+        "Year":"2011",
+        "imdbID":"tt0433035",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjEzMzEzNjg0N15BMl5BanBnXkFtZTcwMzg4NDk0Ng@@._V1_SX300.jpg"
+     },
+     {
+        "Title":"Sans Un Bruit",
+        "Year":"2020",
+        "imdbID":"tt12976008",
+        "Type":"movie",
+        "Poster":"N/A"
+     },
+     {
+        "Title":"The Dead Pool",
+        "Year":"1988",
+        "imdbID":"tt0094963",
+        "Type":"movie",
+        "Poster":"https://m.media-amazon.com/images/M/MV5BMjFiZjVmY2QtMjk4Ni00OWIxLTg4ZDItZWMxMGJlZmUzNWYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg"
+     },
+     {
+        "Title":"The Dead Pool",
+        "Year":"2010",
+        "imdbID":"tt1656785",
+        "Type":"movie",
+        "Poster":"N/A"
+     },
+     {
+        "Title":"AMC Fear Fest, Dead Pool",
+        "Year":"2012",
+        "imdbID":"tt8252148",
+        "Type":"series",
+        "Poster":"N/A"
+     }
+  ],
+  "totalResults":"1",
+  "Response":"True"
+}
+
+ 
